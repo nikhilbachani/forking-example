@@ -1,3 +1,2 @@
-# Meta-Front-End-Developer-PC-m3l2_forking_lab
-The link in the Coursera lesson doesn't work so I'll make my own...
-Here's the link that doesn't work https://github.com/Meta-Front-End-Developer-PC/m3l2_forking_lab
+# Forking Example
+Solution repo for Lab 2: [Create a Repository with Forking](https://github.com/nikhilbachani/mfed-version-control/tree/main/git-and-github/lab2) as part of ***Meta Front-End Developer Professional Certificate - Course 3 - Version Control*** course (https://github.com/nikhilbachani/mfed-version-control)
